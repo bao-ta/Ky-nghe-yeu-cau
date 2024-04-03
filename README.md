@@ -17,27 +17,13 @@
 - **Thực Hiện Công Việc:** Mỗi thành viên sẽ thực hiện nhiệm vụ của mình và cập nhật tiến độ công việc vào cuối mỗi tuần.
 - **Họp Nhóm:** Hằng tuần, chúng tôi sẽ có buổi họp nhóm để thảo luận về tiến độ, các vấn đề gặp phải và phương hướng giải quyết.
 
-## Cập Nhật Tuần Hàng:
+## Cập Nhật Tuần:
 ### Tuần 1:
 - **Công Việc Thực Hiện:**
   - Phân tích yêu cầu hệ thống.
   - Lập kế hoạch phát triển.
 - **Báo Cáo:**
-  - Tạ Thành Bảo: Hoàn thành phân tích yêu cầu hệ thống.
-  - Bùi Văn Bách: Hoàn thành lập kế hoạch phát triển.
 
-### Tuần 2:
-- **Công Việc Thực Hiện:**
-  - Thiết kế giao diện người dùng.
-  - Xây dựng cơ sở dữ liệu.
-- **Báo Cáo:**
-  - Phùng Ánh Dương: Hoàn thành thiết kế giao diện người dùng.
-  - Hoàng Mạnh Bình: Hoàn thành xây dựng cơ sở dữ liệu.
-
-### Tuần 3:
-- **Công Việc Thực Hiện:**
-  - Triển khai chức năng quản lý sản phẩm.
-  - Kiểm thử và sửa lỗi.
 - **Báo Cáo:**
   - Phong: Hoàn thành triển khai chức năng quản lý sản phẩm.
   - Tất cả thành viên: Thực hiện kiểm thử và sửa lỗi.
@@ -47,7 +33,7 @@
 
 ## Liên Hệ:
 Nếu có bất kỳ thắc mắc hoặc góp ý, vui lòng liên hệ với chúng tôi qua email hoặc các phương tiện sau:
-- Tạ Thành Bảo: [email của Tạ Thành Bảo]
+- Tạ Thành Bảo: 20021302@vnu.edu.vn - 20021302
 - Bùi Văn Bách: [email của Bùi Văn Bách]
 - Phùng Ánh Dương: [email của Phùng Ánh Dương]
 - Hoàng Mạnh Bình: [email của Hoàng Mạnh Bình]
