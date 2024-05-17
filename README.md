@@ -35,7 +35,7 @@
 Nếu có bất kỳ thắc mắc hoặc góp ý, vui lòng liên hệ với chúng tôi qua email hoặc các phương tiện sau:
 - Tạ Thành Bảo: 20021302@vnu.edu.vn - 20021302
 - Bùi Văn Bách: [email của Bùi Văn Bách]
-- Phùng Ánh Dương: [email của Phùng Ánh Dương]
+- Phùng Ánh Dương: 20021322@vnu.edu.vn
 - Hoàng Mạnh Bình: [email của Hoàng Mạnh Bình]
 - Phong: [email của Phong]
 
